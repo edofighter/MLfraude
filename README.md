@@ -102,7 +102,7 @@ Este proyecto está bajo la licencia MIT.
 
 ## 📬 Contacto
 
-Para dudas o sugerencias, abre un issue o contacta a [https://github.com/edofighter/MLfraude).
+Para dudas o sugerencias, abre un issue o contacta a [https://github.com/edofighter).
 
 ---
 
