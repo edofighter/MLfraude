@@ -1,0 +1,15 @@
+# Datos y modelos
+data/
+models/
+*.csv
+*.npy
+*.pkl
+*.joblib
+
+# Entornos y archivos temporales
+venv/
+.env/
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.cache/
